@@ -14,5 +14,5 @@ In this study I plan on covering the following strategic ideas:
 This project is a **work in progress**! I will add chapters when they are completed, and reserve the right to go back and modify old ones. Enjoy :) 
 
 ******
-#### Chapter 1:
+### Chapter 1:
 In this notebook I begin to explore a fundemental component of RISK: the attack. I derive formulas that give probabilities of outcomes of battles, and use them to analyse various attack sequences and strategies. I use these results to construct visualizations that build intuition and give insight into how attacks work. Finally, I find easy to use formulas that approximate the outcomes of attacks that can be used to give a player the competitive edge.  
