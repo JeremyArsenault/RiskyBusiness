@@ -1,6 +1,6 @@
 # A Study of RISK
 
-This study is a personal exploration into the game of RISK. It is meant mostly in an excercise in probability, statistics, game theory, and reinforcement learning, but will be aimed towards the curious gamesman or gameswoman. I will seperate topics into different jupyter notebooks that I am calling chapters. Each notebook is meant to be a standalone chapter in this study, however, later notebooks may use ideas developed in previous sections, so I recommend that you read them in order. My goal is to provide information and insights into the game of RISK that are easy to follow and accessible to anyone, regardless of prior technical knowledge.
+This study is a personal exploration into the game of RISK. It is meant mostly as an excercise in probability, statistics, game theory, and reinforcement learning, but will be aimed towards the curious gamesman or gameswoman. I will seperate topics into different jupyter notebooks that I am calling chapters. Each notebook is meant to be a standalone chapter in this study, however, later notebooks may use ideas developed in previous sections, so I recommend that you read them in order. My goal is to provide information and insights into the game of RISK that are easy to follow and accessible to anyone, regardless of prior technical knowledge.
 
 In this study I plan on covering the following strategic ideas:
 
